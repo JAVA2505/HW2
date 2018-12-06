@@ -1,4 +1,4 @@
-package daysOfMonths;
+package academy.mate;
 
 import java.util.Arrays;
 
